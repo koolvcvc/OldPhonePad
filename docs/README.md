@@ -43,7 +43,7 @@ Convert keypad input sequences (like old mobile phones) into text, handling back
 │   ├── USAGE.md
 │   └── ai-prompt.md
 ├── .github/
-│   ├── workflow/
+│   ├── workflows/
 │   │   └── ci.yml
 ├── .gitignore
 ├── LICENSE
